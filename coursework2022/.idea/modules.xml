@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/coursework 2022.iml" filepath="$PROJECT_DIR$/.idea/coursework 2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tetrecs/tetrecs.iml" filepath="$PROJECT_DIR$/tetrecs/tetrecs.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+Level 10:10000
+Level 9:9000
+Level 8:8000
+Level 7:7000
+Level 6:6000
+Level 5:5000
+Level 4:4000
+Level 3:3000
+aaron:2390
+Level 2:2000
